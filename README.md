@@ -6,14 +6,6 @@ In today's digital age, social media platforms like Twitter, Facebook, Instagram
 
 Our project takes a text (which may be comment from social platform or any other user feedback), it analyse and  provide a response indicating whether the text contains Hate Speech, Offensive Speech, or neither of them.
 
-## Installation
-
-1. Install the library   
-   `pip install -r requirements.txt`
-
-2. Train the model  
-   `python ./hatespeechdetector.py`
-
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,6 +13,16 @@ Our project takes a text (which may be comment from social platform or any other
   - [Embedding it](#embedding-it)
 - [RoadMap](#roadmap)
 
+
+## Installation
+
+1. Install the library   
+   `pip install -r requirements.txt`
+
+2. Train the model  
+   `python ./hatespeechdetector.py`
+   
+   
 ## Usage
 
 ### CommandLine
