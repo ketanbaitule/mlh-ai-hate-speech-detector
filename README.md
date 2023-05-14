@@ -1,5 +1,7 @@
 # HateSpeechAlert
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
 In today's digital age, social media platforms like Twitter, Facebook, Instagram, and YouTube have become breeding grounds for hate speech. It has caused many instances of hate and division among users, communities etc. Our aim is to make these online spaces safer and more inclusive for everyone.  
 
 Our project takes a text (which may be comment from social platform or any other user feedback), it analyse and  provide a response indicating whether the text contains Hate Speech, Offensive Speech, or neither of them.
